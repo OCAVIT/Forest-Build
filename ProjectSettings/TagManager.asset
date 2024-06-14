@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Max
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2176228323
+    locked: 0
+  - name: TreeLeaves
+    uniqueID: 966973309
+    locked: 0
+  - name: UnderDirt
+    uniqueID: 3121884225
+    locked: 0
+  - name: Dirt
+    uniqueID: 4187356095
+    locked: 0
+  - name: Cloud
+    uniqueID: 3089894649
+    locked: 0
+  - name: Tree
+    uniqueID: 3568134741
+    locked: 0
+  - name: Sheep
+    uniqueID: 2136898289
+    locked: 0
+  - name: Brush
+    uniqueID: 3146698731
+    locked: 0
+  - name: Stone
+    uniqueID: 53592489
+    locked: 0
+  - name: Particles
+    uniqueID: 2890600971
+    locked: 0
+  - name: ClickZone
+    uniqueID: 3594900721
+    locked: 0
+  - name: Blilboard
+    uniqueID: 3516048781
+    locked: 0
+  - name: 2Billboard
+    uniqueID: 4195840443
+    locked: 0
+  - name: Blocks
+    uniqueID: 1933360277
+    locked: 0
+  - name: BlackLine
+    uniqueID: 1493784865
+    locked: 0
+  - name: CursorB
+    uniqueID: 4209523025
+    locked: 0
+  - name: TreeB
+    uniqueID: 931725199
+    locked: 0
+  - name: StoneB
+    uniqueID: 1305500103
+    locked: 0
+  - name: SheepB
+    uniqueID: 1516798275
+    locked: 0
+  - name: CloudB
+    uniqueID: 3171890777
+    locked: 0
+  - name: MoneyIcon
+    uniqueID: 2444223003
+    locked: 0
